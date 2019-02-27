@@ -1,5 +1,5 @@
 # Flutter Porject:
- project for Google Community by Redna ALmutlq
+ project for Google Community by Redna ALmutlaq
  
  ## Idea of project
  Create random list of name
